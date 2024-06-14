@@ -1,0 +1,3 @@
+pasword: OOje51HQ3aF0kxTB
+username: cjoseph8888
+DATABASE= mongodb+srv://cjoseph8888:OOje51HQ3aF0kxTB@asstate.gilyshx.mongodb.net/
